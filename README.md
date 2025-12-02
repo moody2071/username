@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a  target="_blank" href="https://instagram.com/mrpriyanshuniverse">
+  <a target="_blank" rel="noopener noreferrer"href="https://instagram.com/mrpriyanshuniverse">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a><img width="8"/><a href="https://linkedin.com/in/priyanshk09"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
   </a>
 </p>
