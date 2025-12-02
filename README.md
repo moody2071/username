@@ -31,24 +31,24 @@
 <!-- ======== Skills ======== -->
 <div align="center">
 <h3>
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="30px" style="vertical-align:middle">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="30px" style="vertical-align:middle"> Programming Languages
 </h3>  
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=dart,python,cs,cpp" />
 </a>
 <h3>
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="35px" style="vertical-align:middle">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="35px" style="vertical-align:middle"> Environments and Frameworks
 </h3>  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=flutter,unity,html,css,js,rest" />
+  <img src="https://skillicons.dev/icons?i=flutter,unity,html,css,js,nodejs" />
 </a>
-<h3>🗄️ قواعد البيانات والتخزين</h3>
+<h3>🗄️ Databases</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=firebase,sqlite,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,sqlite" />
 </a>
-<h3>🛡️ الأدوات والأمن السيبراني</h3>
+<h3>🛡️ Tools and cybersecurity</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,kali,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,postman,kali,linux,ubuntu,docker" />
 </a></div>
 
 
