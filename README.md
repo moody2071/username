@@ -22,12 +22,7 @@
   <a href="https://mb.mduosoft.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-0078D7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
-<!-- ======== GitHub Top Languages ======== -->
-<!-- <p align="center">
-  <a href="https://github.com/moody2071">
-    <img alt="mpa12's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=moody2071&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-  </a>
-</p> -->
+
 <!-- ======== Skills ======== -->
 <div align="center">
 <h3>
@@ -102,4 +97,8 @@
 - 📫 **تواصل معي:** mb@mduosoft.com
 - 🌐 **الموقع:** [mb.mduosoft.com](https://mb.mduosoft.com/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=moody2071&show_icons=true&theme=tokyonight)
+ <p align="center">
+  <a href="https://github.com/moody2071">
+    <img alt="mpa12's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=moody2071&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  </a>
+</p> 
