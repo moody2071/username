@@ -29,6 +29,42 @@
   </a>
 </p> -->
 
+<div align="center">
+
+<h3>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="30px" style="vertical-align:middle">
+  لغات البرمجة
+</h3>  
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=dart,python,c,cpp" />
+</a>
+
+<h3>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="35px" style="vertical-align:middle">
+  تطوير التطبيقات والويب
+</h3>  
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,html,css,js" />
+</a>
+
+<h3>🗄️ قواعد البيانات والتخزين</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,sqlite" />
+</a>
+
+<h3>☁️ السحابة والعمليات (DevOps )</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,firebase,aws,linux" />
+</a>
+
+<h3>⚙️ الأدوات والمنصات</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,unity,vscode,kali" />
+</a>
+
+</div>
 
 
 
