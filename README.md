@@ -1,16 +1,20 @@
-<h1 id="top" align="center">Hi, I'm Mohammed Bataher <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1></h1>
+<h1 id="top" align="center">Hi, I'm Mohammed Bataher <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1800&pause=600&color=38C2FF&center=true&vCenter=true&random=true&width=600&lines=Software+Engineer;Flutter+developer;Website+developer;Game+Developer;Cybersecurity" alt="Typing SVG"/>
   </a>
 </p>
 
-<p align="center">
-  <a target="_blank" rel="noopener noreferrer"href="https://instagram.com/mrpriyanshuniverse">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a><img width="8"/><a href="https://linkedin.com/in/priyanshk09"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+<p align="center"> 
+  <a href="[https://t.me/pigolitsyn_m](https://instagram.com/mo_do20)" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</p>
+   <a href="https://t.me/pigolitsyn_m" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
 
+</p>
 
 
 
@@ -19,15 +23,7 @@
 مرحباً بك في ملفي الشخصي على GitHub! أنا **مطور برمجيات** شغوف بتحويل الأفكار المبتكرة إلى حلول رقمية متقدمة. لدي خبرة تزيد عن **5 سنوات** في تطوير تطبيقات الهاتف المحمول باستخدام **Flutter**، وصناعة الألعاب باستخدام **Unity**، بالإضافة إلى اهتمام عميق بمجال **الأمن السيبراني** واختبار الاختراق.
 
 **[السيرة الذاتية الكاملة](https://flowcv.com/resume/kgrdsgcndor2) | [الموقع الشخصي](https://mb.mduosoft.com/)**
-<p align="center"> 
-  <a href="[https://t.me/pigolitsyn_m](https://instagram.com/mo_do20)" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-   <a href="https://t.me/pigolitsyn_m" target="_blank">
-    <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
 
-</p>
 
 ---
 
