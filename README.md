@@ -28,38 +28,28 @@
     <img alt="mpa12's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=moody2071&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
   </a>
 </p> -->
-
+<!-- ======== Skills ======== -->
 <div align="center">
-
 <h3>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="30px" style="vertical-align:middle">
-  لغات البرمجة الأساسية
 </h3>  
-
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=dart,python,cs,cpp" />
 </a>
-
 <h3>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="35px" style="vertical-align:middle">
-  البيئات وأطر العمل
 </h3>  
-
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=flutter,unity,html,css,js,rest" />
 </a>
-
 <h3>🗄️ قواعد البيانات والتخزين</h3>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=firebase,sqlite,mysql,mongodb" />
 </a>
-
 <h3>🛡️ الأدوات والأمن السيبراني</h3>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,kali,linux" />
-</a>
-
-</div>
+</a></div>
 
 
 
