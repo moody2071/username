@@ -46,4 +46,4 @@
 - 📫 **تواصل معي:** mb@mduosoft.com
 - 🌐 **الموقع:** [mb.mduosoft.com](https://mb.mduosoft.com/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=moody2071&show_icons=true&theme=tokyonight&locale=ar)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=moody2071&show_icons=true&theme=tokyonight)
