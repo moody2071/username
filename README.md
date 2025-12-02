@@ -21,7 +21,7 @@
 <p align="center"> 
   <a href="mailto:mohamed2000071111@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://wa.me/YourNumber" target="_blank" rel="noopener noreferrer">
+  <a href="https://wa.me/967770899421" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/></a>
   <a href="https://instagram.com/mo_do20" target="_blank">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -53,7 +53,11 @@
 <!--  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
 
   <h2><a id="about"></a><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> About Me</h2>
-<img align="right" width="470" height="420" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right"
+     src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
+     alt="Coding"
+     style="max-width:40%; min-width:100px; height:auto; border-radius:10px;">
+
 
 - ⭐ I’m a `Software Engineer` and [**`Team Builder`**](https://mduosoft.com).
   
