@@ -8,14 +8,14 @@
 </p>
 <!-- ======== Social Badges ======== -->
 <p align="center"> 
+  <a href="mailto:mohamed2000071111@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
   <a href="https://wa.me/YourNumber" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/></a>
   <a href="https://instagram.com/mo_do20" target="_blank">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/MB2071" target="_blank">
   <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="mailto:mohamed2000071111@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"/></a>
 
   <a href="https://mohammed2071.itch.io/" target="_blank">
   <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/></a>
