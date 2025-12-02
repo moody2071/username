@@ -1,12 +1,15 @@
+<!-- ======== Header ======== -->
 <h1 id="top" align="center">Hi, I'm Mohammed Bataher <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<!-- ======== Typing SVG ======== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1800&pause=600&color=38C2FF&center=true&vCenter=true&random=true&width=600&lines=Software+Engineer;Flutter+developer;Website+developer;Game+Developer;Cybersecurity" alt="Typing SVG"/>
   </a>
 </p>
-
+<!-- ======== Social Badges ======== -->
 <p align="center"> 
+  <a href="https://wa.me/YourNumber" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"/></a>
   <a href="https://instagram.com/mo_do20" target="_blank">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/MB2071" target="_blank">
@@ -14,9 +17,15 @@
   <a href="https://mohammed2071.itch.io/" target="_blank">
   <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/></a>
   <a href="https://mb.mduosoft.com/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-0078D7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio-0078D7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
+<!-- ======== GitHub Top Languages ======== -->
+<!-- <p align="center">
+  <a href="https://github.com/moody2071">
+    <img alt="mpa12's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=moody2071&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  </a>
+</p> -->
+
 
 
 
