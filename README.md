@@ -6,6 +6,17 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1800&pause=600&color=38C2FF&center=true&vCenter=true&random=true&width=600&lines=Software+Engineer;Flutter+developer;Website+developer;Game+Developer;Cybersecurity" alt="Typing SVG"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moody2071&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" height="21" /> 
+  <img src="https://img.shields.io/github/followers/moody2071?label=Followers&color=0e75b6&style=flat-square" alt="Followers" height="21" width="100" />
+  <img src="https://img.shields.io/github/stars/moody2071?label=Stars&color=0e75b6&style=flat-square" alt="Stars" height="21" />
+  <img src="https://img.shields.io/github/forks/Moody2071/Software-Engineering?label=Forks&color=0e75b6&style=flat-square" alt="Forks" height="21" />
+  <img src="https://img.shields.io/github/watchers/Moody2071/Software-Engineering?label=Watchers&style=flat-square&color=0e75b6" alt="Watchers" height="21" />
+</p>
+
+
+
 <!-- ======== Social Badges ======== -->
 <p align="center"> 
   <a href="mailto:mohamed2000071111@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -23,6 +34,7 @@
   <img src="https://img.shields.io/badge/Portfolio-0078D7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
+---
 <!-- ======== Skills ======== -->
 <div align="center">
 <h3>
