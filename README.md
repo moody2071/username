@@ -48,7 +48,8 @@
 <span>[<kbd> <br> Snake <br> </kbd>](#snake)</span>
 <span>[<kbd> <br> Graph <br> </kbd>](#graph)</span></div>
 
----
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 
 <!--  <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> -->
 
@@ -56,7 +57,9 @@
   <h2><a id="about"></a><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> About Me</h2>
 <img align="right" width="auto" height="240" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-- ⭐ I’m a `Software Engineer` and [**`Team Builder`**](https://mduosoft.com).
+- ⭐ I’m a `Mobile & Game Developer` and `Cybersecurity Specialist`.
+
+- 🏢 Founder of [**M!DuoSoft**](https://mduosoft.com).
   
 - 🚀 Passionate about `Mobile Development` and `Game Development`.
 
@@ -68,8 +71,6 @@
   
 - 🔍 Seeking an `Internship` or a `Job`.
 
-- 🔄 Repeat `Brainstorming`, `Coding`, and `Debugging`.
-
 - 📄 Know more about my experiences in my **[Resume](https://flowcv.com/resume/kgrdsgcndor2)**.
 
 - ✨ Enjoy my GitHub profile.
@@ -80,7 +81,8 @@
   <img width="900" height="400" alt="Mario" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
 </div>
 
----
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 <h2><a id="technical-skills"></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Technical Skills</h2>
 <!-- ======== Skills ======== -->
 <div >
@@ -107,7 +109,8 @@
 
 
 
----
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 
 ### مطور تطبيقات وألعاب | مختص أمن سيبراني | مؤسس فريق M!DuoSoft
 
@@ -116,7 +119,8 @@
 **[السيرة الذاتية الكاملة](https://flowcv.com/resume/kgrdsgcndor2) | [الموقع الشخصي](https://mb.mduosoft.com/)**
 
 
----
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 
 ## 🚀 الخبرة المهنية
 
@@ -126,18 +130,14 @@
 | 11/2023 - 04/2024 | مطور Flutter | وكالة أمن الدولة | تطوير وتطبيق تطبيقات جوال سهلة الاستخدام باستخدام Dart و Flutter، إجراء اختبارات الوحدة والتكامل، مراجعة الأكواد. |
 | 11/2022 - 11/2023 | مطور Flutter (مستقل) | عمل حر | خبرة في تطوير تطبيقات الجوال، استخدام قواعد بيانات محلية مثل SQLite و Hive، تصميم واجهات مستجيبة. |
 
----
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-## 💻 المهارات التقنية
 
-| المجال | التقنيات والأدوات |
-| :--- | :--- |
-| **تطوير التطبيقات** | Flutter, Dart, Firebase, RESTful APIs, Testing (Unit, Widget, Integration), UI/UX Design, Responsive Design. |
-| **تطوير الألعاب** | Unity & C#, 3D Modeling, Game Physics, AI for Games, Shader Graph, Performance Optimization. |
-| **الأمن السيبراني** | Penetration Testing, Network Security, Reverse Engineering, Cryptography, Security Auditing, Incident Response, Kali Linux. |
-| **لغات أخرى** | Python, Django, GraphQL, Docker (تعلم حالي). |
+## 💻 Technical skills
+|
 
----
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 
 ## ✨ مشاريع مختارة
 
@@ -148,7 +148,8 @@
 | **Glitch Zero** | لعبة هروب في عالم صناعي كئيب، حيث يتحول أول منتج يكتسب وعيًا ذاتيًا إلى "خلل" يجب التخلص منه. | Unity, C#, URP 2D Lighting, Animator |
 | **الهندسة العكسية للتطبيقات** | مشروع توعوي يوضح سهولة الحصول على معلومات حساسة واختراق بعض الوظائف في التطبيقات غير المؤمنة. | Kali Linux, Assembly, Metasploit, Reverse Engineering |
 
----
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 
 ## 📈 إحصائيات GitHub
 
