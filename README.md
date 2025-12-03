@@ -83,8 +83,8 @@
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-
-## 🚀 professional experience
+<!-- ======== Professional Experience ======== -->
+## 🚀 Professional Experience
 
 | الفترة | المنصب | الجهة | المسؤوليات الرئيسية |
 | :--- | :--- | :--- | :--- |
@@ -95,8 +95,8 @@
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-
-## ✨ Selected projects
+<!-- ======== Selected Projects ======== -->
+## ✨ Selected Projects
 
 | المشروع | الوصف | التقنيات المستخدمة |
 | :--- | :--- | :--- |
@@ -107,7 +107,8 @@
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <h2><a id="technical-skills"></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Technical Skills</h2>
-<!-- ======== Skills ======== -->
+
+<!-- ======== Technical Skills ======== -->
 <div >
 <h3>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="30px" style="vertical-align:middle"> Programming Languages
@@ -130,9 +131,19 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,postman,kali,linux,ubuntu,docker,bots" />
 </a></div>
 
+<!-- ======== Github Stats ======== -->
 <h2><a id="github-stats"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Github Stats</h2>
  <p align="center">
   <a href="https://github.com/moody2071">
     <img alt="mpa12's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=moody2071&show_icons=true&locale=en&layout=compact&line_height=20&title_color=125180&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,030e17,135486"/>
   </a>
 </p> 
+
+<a href="https://git.io/streak-stats"><img align="center" width="1000" height="180" src="https://streak-stats.demolab.com?user=moody2071&theme=gruvbox" alt="GitHub Streak" /></a>
+<div align="center">
+<td colspan="2" style="text-align: center;">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moody2071&theme=gruvbox" alt="Profile Details" " />
+</td></div>
+
+
+
