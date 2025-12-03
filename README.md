@@ -103,10 +103,33 @@
 | **Glitch Zero** | لعبة هروب في عالم صناعي كئيب، حيث يتحول أول منتج يكتسب وعيًا ذاتيًا إلى "خلل" يجب التخلص منه. | Unity, C#, URP 2D Lighting, Animator |
 | **الهندسة العكسية للتطبيقات** | مشروع توعوي يوضح سهولة الحصول على معلومات حساسة واختراق بعض الوظائف في التطبيقات غير المؤمنة. | Kali Linux, Assembly, Metasploit, Reverse Engineering |
 
+<!-- ======== Open Source Contributions ======== -->
+ <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+<h2><a id="open-source"></a>🤝 Open Source Contributions</h2>
+
+| 📦 Project | 📘 Description | 👤 Role | 🔗 Link | 📊 Status |
+| --- | --- | --- | --- | --- |
+| **QR Code Generator** | Generate, scan, and manage QR codes with intuitive UI | Owner / Lead Developer | [Repository](https://github.com/moody2071/qr_code) | ![Static Badge](https://img.shields.io/badge/Active-2da44e) |
+| **RSVPLY** | Generate personalized invitations in bulk from Excel/CSV (Name + Barcode/QR) | Founder / Lead Developer | [Link](https://rsvply.mduosoft.com/) | ![Static Badge](https://img.shields.io/badge/Live-2da44e) |
+
+
+<!--
+| 📂 Repository | 💡 Contribution | 📝 Type | 🔗 PR | 📊 Status |
+| --- | --- | --- | --- | --- |
+| [Django](https://github.com/django/django) | Deprecated HTTP as the default protocol in `urlize` and `urlizetrunc` | Optimization | [#19240](https://github.com/django/django/pull/19240) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
+| ↳ | Fixed contenttypes `shortcut()` view crash for a UUIDField pk | Bug | [#19296](https://github.com/django/django/pull/19296) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
+| ↳ | Fixed test classes with `@translation.override` decorator | Bug | [#19358](https://github.com/django/django/pull/19358) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
+| ↳ | Added docs for testing callable storage in FileField | Optimization | [#19349](https://github.com/django/django/pull/19349) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
+| ↳ | Updated docs on gettext f-string support limitations | Documentation | [#19348](https://github.com/django/django/pull/19348) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
+| ↳ | Optimized no-op migration performance on SQLite | Optimization | [#19278](https://github.com/django/django/pull/19278) | ![Static Badge](https://img.shields.io/badge/Open-2da44e) |
+| [Upwork Clone Frontend](https://github.com/activecourses/upwork-clone-frontend) | Set up Husky pre-commit hooks | DevOps | [#31](https://github.com/activecourses/upwork-clone-frontend/pull/31) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) |
+| ↳ | Fixed props validation, line endings, and formatting | Code Style | [#32](https://github.com/activecourses/upwork-clone-frontend/pull/32) | ![Static Badge](https://img.shields.io/badge/Merged-8957e5) | -->
+
+<!-- ======== Technical Skills ======== -->
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <h2><a id="technical-skills"></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Technical Skills</h2>
 
-<!-- ======== Technical Skills ======== -->
 <div >
 <h3>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="30px" style="vertical-align:middle"> Programming Languages
