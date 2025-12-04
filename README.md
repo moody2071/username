@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=moody2071&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" height="21" /> 
   <img src="https://img.shields.io/github/followers/moody2071?label=Followers&color=0e75b6&style=flat" alt="Followers" height="21" />
-  <img src="https://img.shields.io/github/stars/moody2071?label=Stars&color=0e75b6&style=flat" alt="Stars" height="21" />
+   <img src="https://img.shields.io/github/stars/moody2071?style=flat&color=0e75b6&label=Stars&token=%3CPAT%3E" alt="Stars" height="21" />
   <img src="https://img.shields.io/github/forks/Moody2071/moody2071?label=Forks&color=0e75b6&style=flat" alt="Forks" height="21" />
   <img src="https://img.shields.io/github/watchers/Moody2071/moody2071?label=Watchers&style=flat&color=0e75b6" alt="Watchers" height="21" />
 </p>
